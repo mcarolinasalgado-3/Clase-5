@@ -8,5 +8,4 @@ Sitio web de cervecería artesanal desarrollado con HTML, CSS y Bootstrap.
 - Bootstrap 5 (Navbar responsiva, Carousel)
 
 ## Sitio desplegado
-- pendiente
-
+[Ver sitio en vivo](https://mcarolinasalgado-3.github.io/Clase-5/)
